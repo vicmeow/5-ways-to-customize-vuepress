@@ -1,0 +1,1 @@
+![Vue.js Frankfurt logo](/frank.png)

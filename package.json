@@ -1,0 +1,23 @@
+{
+  "name": "5-ways-to-customize-your-vuepress-site-slides",
+  "version": "1.0.0",
+  "description": "Presentation slides made with VuePress and a custom theme.",
+  "author": "Victoria Bergquist",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vuepress dev",
+    "build": "vuepress build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vicbergquist/codesandbox-vuepress"
+  },
+  "devDependencies": {
+    "node-sass": "^4.11.0",
+    "sass-loader": "^7.1.0",
+    "vuepress": "^1.0.2",
+    "vuepress-plugin-clean-urls": "^1.0.3"
+  },
+  "keywords": [],
+  "dependencies": {}
+}
