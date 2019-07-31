@@ -8,10 +8,10 @@
 module.exports = {
   title: "5 Ways to Customize Your VuePress Site",
   description:
-    "A talk by Victoria Bergquist about VuePress and how can you customize it to fit your needs?",
+    "A talk about 5 ways you can customize your VuePress site!",
   themeConfig: {
     nav: [{ text: "Home", link: "/" }],
-    globalHashtags: ["vuejsfrankfurt", "vuepress", "vuejs"]
+    globalHashtags: ["jamstackoslo", "vuepress", "vuejs"]
   },
   markdown: {
     anchor: {
